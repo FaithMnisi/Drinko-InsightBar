@@ -1,4 +1,4 @@
-# Drinko-InsightBar Dashboard
+# Drinko-InsightBar Dashboard 🍹
 
 ## Overview
 The **Drinko-InsightBar** dashboard provides detailed insights into the sales and performance of Drinko, a leading supplier of beverages to big-box stores, discounters, grocery stores, and supermarkets. This interactive dashboard is designed to help users analyze sales trends, profitability, and operational efficiency across different product categories and client types.
